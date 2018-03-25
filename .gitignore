@@ -10,3 +10,4 @@ target/
 *backup
 *Backup
 *bower_components/
+kurento-magic-mirror/src/main/resources/.DS_Store
